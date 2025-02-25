@@ -27,7 +27,7 @@
         </h1>
         
         <p in:fade={{ duration: 1000, delay: 800 }} class="text-xl md:text-2xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto leading-relaxed">
-          Full Stack Developer & AI Enthusiast
+          Founder & CEO, Data Professional & Software Engineer
         </p>
         
         <div in:fade={{ duration: 1000, delay: 1200 }} class="mt-10 flex flex-wrap justify-center gap-4">
@@ -66,27 +66,19 @@
         
         <div class="md:col-span-3 space-y-4 text-gray-700 dark:text-gray-300">
           <p>
-            I am an enthusiastic software developer and engineer currently finishing up my computer science degree at Aalto University
-            and working as a frontend dev at <a href="https://www.creocenter.fi/" target="_blank" class="text-secondary hover:underline">Creo Center</a>.
+            I am the Founder & CEO of <a href="#" target="_blank" class="text-secondary hover:underline">Sola Technologies</a>, where we build video game SaaS and develop custom LLM-based solutions.
           </p>
           
           <p>
-            I initially majored in mechanical engineering, but fell in love with programming very early on. Towards the later
-            stages of my engineering studies I decided to make the switch to a computer science degree.
+            Previously, I worked as a Data Scientist at Metsä Group. Before then, I've held various positions in software and engineering.
           </p>
           
           <p>
-            The programming language I was first exposed to was Python, which I still regard as my strongest technique to this day.
-            I am also big into ML, data science, and AI, which is the master's programme I am currently partaking.
+            Lately, I'm getting deeper into ML engineering and AI.
           </p>
           
           <p>
-            In my web dev career I have mostly grown accustomed to <span class="font-semibold">React, Tailwind CSS and Typescript</span> in the front, and <span class="font-semibold">Deno and PSQL</span> in the back.
-            For my own projects, I recently find myself gravitating towards <span class="font-semibold">Svelte</span> and learning all kinds of new and exciting frameworks and runtimes.
-          </p>
-          
-          <p>
-            In my free time I am an avid gym-goer and spend whatever time remains learning new sports, and currently the beautiful Swedish language.
+            In my free time, I'm a dad and a husband. I compete in badminton with poor results. I also love running, cycling, calisthenics, and reading.
           </p>
         </div>
       </div>
@@ -96,103 +88,65 @@
   <!-- Skills Section -->
   <section id="skills" class="py-20 px-4 bg-base-200 dark:bg-gray-900">
     <div class="container mx-auto max-w-5xl">
-      <h2 class="text-3xl md:text-4xl font-bold text-center mb-16 bg-gradient-to-r from-secondary to-accent bg-clip-text text-transparent">Skills</h2>
+      <h2 class="text-3xl md:text-4xl font-bold text-center mb-16 bg-gradient-to-r from-secondary to-accent bg-clip-text text-transparent">Experience</h2>
       
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
-        <div class="space-y-8">
-          <h3 class="text-xl font-medium mb-6 text-gray-800 dark:text-white">Frontend & Backend</h3>
-          
-          <!-- TypeScript -->
-          <div class="space-y-2">
-            <div class="flex justify-between">
-              <span class="text-gray-700 dark:text-gray-300">TypeScript</span>
-              <span class="text-gray-500 dark:text-gray-400">85%</span>
-            </div>
-            <div class="h-2 w-full bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
-              <div class="h-full bg-gradient-to-r from-secondary to-accent rounded-full" style="width: 85%"></div>
+      <div class="space-y-12">
+        <!-- Sola Technologies -->
+        <div class="bg-white dark:bg-gray-800 rounded-lg p-6 shadow-lg">
+          <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-4">
+            <h3 class="text-xl font-bold text-gray-900 dark:text-white">Founder & CEO</h3>
+            <div class="flex items-center mt-2 md:mt-0">
+              <span class="text-gray-500 dark:text-gray-400">Jan 2024 – Present</span>
             </div>
           </div>
-          
-          <!-- Svelte -->
-          <div class="space-y-2">
-            <div class="flex justify-between">
-              <span class="text-gray-700 dark:text-gray-300">Svelte</span>
-              <span class="text-gray-500 dark:text-gray-400">85%</span>
-            </div>
-            <div class="h-2 w-full bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
-              <div class="h-full bg-gradient-to-r from-secondary to-accent rounded-full" style="width: 85%"></div>
-            </div>
-          </div>
-          
-          <!-- CSS -->
-          <div class="space-y-2">
-            <div class="flex justify-between">
-              <span class="text-gray-700 dark:text-gray-300">CSS</span>
-              <span class="text-gray-500 dark:text-gray-400">80%</span>
-            </div>
-            <div class="h-2 w-full bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
-              <div class="h-full bg-gradient-to-r from-secondary to-accent rounded-full" style="width: 80%"></div>
-            </div>
-          </div>
-          
-          <!-- React.js -->
-          <div class="space-y-2">
-            <div class="flex justify-between">
-              <span class="text-gray-700 dark:text-gray-300">React.js</span>
-              <span class="text-gray-500 dark:text-gray-400">80%</span>
-            </div>
-            <div class="h-2 w-full bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
-              <div class="h-full bg-gradient-to-r from-secondary to-accent rounded-full" style="width: 80%"></div>
-            </div>
-          </div>
+          <h4 class="text-lg font-medium text-secondary mb-4">Sola Technologies</h4>
+          <ul class="list-disc pl-5 space-y-2 text-gray-700 dark:text-gray-300">
+            <li>Built and scaled video game SaaS products to hundreds of monthly subscribers</li>
+            <li>Developed custom LLM-based customer service solution integrating multiple APIs</li>
+            <li>Provided consulting in software engineering, sales strategy, and technical leadership</li>
+          </ul>
         </div>
         
-        <div class="space-y-8">
-          <h3 class="text-xl font-medium mb-6 text-gray-800 dark:text-white">Backend & DevOps</h3>
-          
-          <!-- Deno -->
-          <div class="space-y-2">
-            <div class="flex justify-between">
-              <span class="text-gray-700 dark:text-gray-300">Deno</span>
-              <span class="text-gray-500 dark:text-gray-400">80%</span>
-            </div>
-            <div class="h-2 w-full bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
-              <div class="h-full bg-gradient-to-r from-secondary to-accent rounded-full" style="width: 80%"></div>
+        <!-- Metsä Group -->
+        <div class="bg-white dark:bg-gray-800 rounded-lg p-6 shadow-lg">
+          <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-4">
+            <h3 class="text-xl font-bold text-gray-900 dark:text-white">Data Scientist</h3>
+            <div class="flex items-center mt-2 md:mt-0">
+              <span class="text-gray-500 dark:text-gray-400">Jan 2023 – Nov 2024</span>
             </div>
           </div>
-          
-          <!-- Node.js -->
-          <div class="space-y-2">
-            <div class="flex justify-between">
-              <span class="text-gray-700 dark:text-gray-300">Node.js</span>
-              <span class="text-gray-500 dark:text-gray-400">75%</span>
-            </div>
-            <div class="h-2 w-full bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
-              <div class="h-full bg-gradient-to-r from-secondary to-accent rounded-full" style="width: 75%"></div>
-            </div>
-          </div>
-          
-          <!-- Python -->
-          <div class="space-y-2">
-            <div class="flex justify-between">
-              <span class="text-gray-700 dark:text-gray-300">Python</span>
-              <span class="text-gray-500 dark:text-gray-400">95%</span>
-            </div>
-            <div class="h-2 w-full bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
-              <div class="h-full bg-gradient-to-r from-secondary to-accent rounded-full" style="width: 95%"></div>
+          <h4 class="text-lg font-medium text-secondary mb-4">Metsä Group</h4>
+          <ul class="list-disc pl-5 space-y-2 text-gray-700 dark:text-gray-300">
+            <li>Managed company-wide data infrastructure projects and developed DataOps standards</li>
+            <li>Supervised graduate work and implemented LLM solution for business process automation</li>
+            <li>Delivered energy optimization and predictive maintenance solutions</li>
+            <li>Used data visualization tools for C-suite decision making</li>
+          </ul>
+        </div>
+        
+        <!-- Creo Center -->
+        <div class="bg-white dark:bg-gray-800 rounded-lg p-6 shadow-lg">
+          <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-4">
+            <h3 class="text-xl font-bold text-gray-900 dark:text-white">Software Engineer</h3>
+            <div class="flex items-center mt-2 md:mt-0">
+              <span class="text-gray-500 dark:text-gray-400">Jun 2022 – Jan 2023</span>
             </div>
           </div>
-          
-          <!-- PostgreSQL -->
-          <div class="space-y-2">
-            <div class="flex justify-between">
-              <span class="text-gray-700 dark:text-gray-300">PostgreSQL</span>
-              <span class="text-gray-500 dark:text-gray-400">70%</span>
-            </div>
-            <div class="h-2 w-full bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
-              <div class="h-full bg-gradient-to-r from-secondary to-accent rounded-full" style="width: 70%"></div>
-            </div>
-          </div>
+          <h4 class="text-lg font-medium text-secondary mb-4">Creo Center Oy</h4>
+          <ul class="list-disc pl-5 space-y-2 text-gray-700 dark:text-gray-300">
+            <li>Built a computer vision application for tracking object positions and speeds</li>
+            <li>Built a full-stack PDM system with React and implemented computer vision solutions</li>
+            <li>Developed CAD plugins using Java to optimize designer workflows</li>
+            <li>Modernized legacy React codebase to current standards</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="text-center mt-12">
+        <h3 class="text-xl font-medium mb-6 text-gray-800 dark:text-white">Certifications</h3>
+        <div class="flex flex-wrap justify-center gap-4">
+          <span class="px-4 py-2 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg text-gray-700 dark:text-gray-300 shadow">DP-203 Azure Data Engineering Associate</span>
+          <span class="px-4 py-2 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg text-gray-700 dark:text-gray-300 shadow">Databricks Certified Data Engineer Associate</span>
         </div>
       </div>
     </div>
@@ -203,26 +157,26 @@
     <div class="container mx-auto max-w-5xl">
       <h2 class="text-3xl md:text-4xl font-bold text-center mb-16 bg-gradient-to-r from-secondary to-accent bg-clip-text text-transparent">Projects</h2>
       
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
         <!-- Project Card 1 -->
         <div class="bg-white dark:bg-gray-800 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow group">
           <div class="h-48 bg-gray-200 dark:bg-gray-700 relative overflow-hidden">
             <!-- Project Image Placeholder -->
             <div class="absolute inset-0 flex items-center justify-center text-gray-400 group-hover:scale-105 transition-transform duration-500">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-16 w-16" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
               </svg>
             </div>
           </div>
           
           <div class="p-6">
-            <h3 class="text-lg font-semibold mb-2 text-gray-900 dark:text-white">Personal Portfolio</h3>
-            <p class="text-gray-600 dark:text-gray-400 mb-4">Modern personal portfolio website built with SvelteKit and Tailwind CSS.</p>
+            <h3 class="text-lg font-semibold mb-2 text-gray-900 dark:text-white">AI-Leveraged Reading App</h3>
+            <p class="text-gray-600 dark:text-gray-400 mb-4">Built reading acceleration app using individual data patterns and LLM-based recall testing with adaptive learning algorithms to match reader characteristics.</p>
             
             <div class="flex flex-wrap gap-2 mb-4">
-              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-300">Svelte</span>
-              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-300">Tailwind</span>
-              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300">TypeScript</span>
+              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-300">TypeScript</span>
+              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-300">Python</span>
+              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-300">LLMs</span>
             </div>
             
             <div class="flex justify-between">
@@ -238,19 +192,19 @@
             <!-- Project Image Placeholder -->
             <div class="absolute inset-0 flex items-center justify-center text-gray-400 group-hover:scale-105 transition-transform duration-500">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-16 w-16" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
               </svg>
             </div>
           </div>
           
           <div class="p-6">
-            <h3 class="text-lg font-semibold mb-2 text-gray-900 dark:text-white">AI Project Dashboard</h3>
-            <p class="text-gray-600 dark:text-gray-400 mb-4">Dashboard for monitoring and visualizing AI experiments and metrics.</p>
+            <h3 class="text-lg font-semibold mb-2 text-gray-900 dark:text-white">Service Scheduling System</h3>
+            <p class="text-gray-600 dark:text-gray-400 mb-4">Created end-to-end scheduling system with integrated payments and recommendation engine. Implemented behavior-based optimization for appointment suggestions.</p>
             
             <div class="flex flex-wrap gap-2 mb-4">
-              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-300">Python</span>
-              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-300">ML</span>
-              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-300">React</span>
+              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-300">TypeScript</span>
+              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-300">Node.js</span>
+              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300">SQL</span>
             </div>
             
             <div class="flex justify-between">
@@ -260,30 +214,29 @@
           </div>
         </div>
         
-        <!-- Project Card 3 -->
-        <div class="bg-white dark:bg-gray-800 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow group">
+        <!-- Project Card 3 - Video Game SaaS -->
+        <div class="bg-white dark:bg-gray-800 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow group md:col-span-2">
           <div class="h-48 bg-gray-200 dark:bg-gray-700 relative overflow-hidden">
             <!-- Project Image Placeholder -->
             <div class="absolute inset-0 flex items-center justify-center text-gray-400 group-hover:scale-105 transition-transform duration-500">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-16 w-16" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" />
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z" />
               </svg>
             </div>
           </div>
           
           <div class="p-6">
-            <h3 class="text-lg font-semibold mb-2 text-gray-900 dark:text-white">Language Learning App</h3>
-            <p class="text-gray-600 dark:text-gray-400 mb-4">App to help users learn Swedish using spaced repetition algorithms.</p>
+            <h3 class="text-lg font-semibold mb-2 text-gray-900 dark:text-white">Video Game SaaS Platform</h3>
+            <p class="text-gray-600 dark:text-gray-400 mb-4">We build video game SaaS products and offer custom LLM-based solutions.</p>
             
             <div class="flex flex-wrap gap-2 mb-4">
-              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-300">TypeScript</span>
-              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-indigo-100 text-indigo-800 dark:bg-indigo-900 dark:text-indigo-300">Deno</span>
-              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-300">PostgreSQL</span>
+              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-300">Cloud</span>
+              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-300">LLMs</span>
+              <span class="text-xs font-medium px-2.5 py-0.5 rounded-full bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300">Lua</span>
             </div>
             
             <div class="flex justify-between">
-              <a href="#" class="text-secondary hover:text-secondary/90 font-medium">Live Demo</a>
-              <a href="#" class="text-secondary hover:text-secondary/90 font-medium">GitHub</a>
+              <a href="#" class="text-secondary hover:text-secondary/90 font-medium">Learn More</a>
             </div>
           </div>
         </div>
@@ -324,7 +277,7 @@
         </form>
         
         <div class="mt-8 pt-8 border-t border-gray-200 dark:border-gray-700">
-          <p class="text-center text-gray-600 dark:text-gray-400">Prefer email? Reach me directly at <a href="mailto:valtteri.valo@example.com" class="text-secondary hover:underline">valtteri.valo@example.com</a></p>
+          <p class="text-center text-gray-600 dark:text-gray-400">Prefer email? Reach me directly at <a href="mailto:valtterimiikovalo@gmail.com" class="text-secondary hover:underline">valtterimiikovalo@gmail.com</a></p>
         </div>
       </div>
     </div>

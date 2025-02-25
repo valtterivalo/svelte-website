@@ -44,7 +44,7 @@
             </button>
             
             <a href="#about" class="text-gray-800 dark:text-gray-200 hover:text-secondary dark:hover:text-secondary transition-colors">About</a>
-            <a href="#skills" class="text-gray-800 dark:text-gray-200 hover:text-secondary dark:hover:text-secondary transition-colors">Skills</a>
+            <a href="#skills" class="text-gray-800 dark:text-gray-200 hover:text-secondary dark:hover:text-secondary transition-colors">Experience</a>
             <a href="#projects" class="text-gray-800 dark:text-gray-200 hover:text-secondary dark:hover:text-secondary transition-colors">Projects</a>
             <a href="#contact" class="text-gray-800 dark:text-gray-200 hover:text-secondary dark:hover:text-secondary transition-colors">Contact</a>
           </div>
